@@ -4,7 +4,6 @@ tmp/*
 local/*
 **/coverage.txt
 **/coverage.html
-artifacts/*
 **/.vscode/*
 gen/
 **/testdata/*.log
