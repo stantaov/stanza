@@ -23,7 +23,7 @@ var userAgent = "StanzaLogAgent"
 
 const (
 	operatorType          = "google_cloud_output"
-	loggingScope          = "https://www.private.googleapis.com/auth/logging.write"
+	loggingScope          = "https://private.googleapis.com/auth/logging.write"
 	defaultTimeout        = 30 * time.Second
 	defaultUseCompression = true
 	defaultMaxEntrySize   = 256000
